@@ -1,3 +1,0 @@
-[submodule "mysubmodules"]
-	path = mysubmodules
-	url = git@github.com:marsday/fridayskills.git
